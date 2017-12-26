@@ -1,0 +1,23 @@
+{
+  "name": "node-samsung-tv-remote",
+  "version": "0.1.0",
+  "description": "NodeJS remote control library for Samsung TVs",
+  "main": "lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buckeye132/node-samsung-tv-remote.git"
+  },
+  "author": "buckeye132",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buckeye132/node-samsung-tv-remote/issues"
+  },
+  "homepage": "https://github.com/buckeye132/node-samsung-tv-remote#readme",
+  "dependencies": {
+    "debug": "^3.1.0",
+    "enum": "^2.5.0"
+  }
+}
